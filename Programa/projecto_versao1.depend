@@ -1,0 +1,1162 @@
+# depslib dependency file v1.0
+1398344110 source:c:\users\ana guarino\desktop\projecto\projecto_versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1398340512 source:c:\users\marta\desktop\projecto (2)\projecto\projecto_versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+
+1398455790 source:c:\users\marta\desktop\projecto (3)\projecto (2)\projecto\projecto_versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"info.h"
+
+1398437811 c:\users\marta\desktop\projecto (3)\projecto (2)\projecto\projecto_versao1\info.h
+
+1398437712 source:c:\users\marta\desktop\projecto (3)\projecto (2)\projecto\projecto_versao1\info.c
+	"info.h"
+
+1398437901 c:\users\marta\desktop\projecto (3)\projecto (2)\projecto\projecto_versao1\menus.h
+
+1398442899 source:c:\users\marta\desktop\projecto (3)\projecto (2)\projecto\projecto_versao1\menus.c
+	"menus.h"
+
+1398441314 source:c:\users\ana guarino\desktop\projecto_versão4\projecto_versao1\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\projecto_versão4\projecto_versao1\info.h
+
+1398510244 source:c:\users\ana guarino\desktop\projecto_versão4\projecto_versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\ppp-projeto\projecto_versao1\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\ppp-projeto\projecto_versao1\info.h
+
+1398512244 source:c:\users\ana guarino\desktop\ppp-projeto\projecto_versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\projecto_versao1\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\projecto_versao1\info.h
+
+1398677402 source:c:\users\ana guarino\desktop\projecto_versao1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\coisalindaefofinhadeppp-ultima versão\versao5\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\coisalindaefofinhadeppp-ultima versão\versao5\info.h
+
+1398960094 source:c:\users\marta\desktop\projecto ppp\coisalindaefofinhadeppp-ultima versão\versao5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\quasepronto\versao5\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\quasepronto\versao5\info.h
+
+1398986606 source:c:\users\ana guarino\desktop\quasepronto\versao5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\projeto momento\versao5\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\projeto momento\versao5\info.h
+
+1399482383 source:c:\users\ana guarino\desktop\projeto momento\versao5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\projeto\versao5\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\projeto\versao5\info.h
+
+1400842900 source:c:\users\ana guarino\desktop\projeto\versao5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\versao5_3-mais\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\versao5_3-mais\info.h
+
+1400917856 source:c:\users\marta\desktop\projecto ppp\versao5_3-mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\versao5_3-mais\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\versao5_3-mais\info.h
+
+1400929351 source:c:\users\ana guarino\desktop\versao5_3-mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\versao5_5_mais\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\versao5_5_mais\info.h
+
+1400943477 source:c:\users\marta\desktop\projecto ppp\versao5_5_mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\versao5_6_mais\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\versao5_6_mais\info.h
+
+1400947813 source:c:\users\marta\desktop\projecto ppp\versao5_6_mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\versao5_7_mais\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\versao5_7_mais\info.h
+
+1400952663 source:c:\users\marta\desktop\projecto ppp\versao5_7_mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\versao5_8_mais\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\versao5_8_mais\info.h
+
+1401118635 source:c:\users\marta\desktop\projecto ppp\versao5_8_mais\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398441314 source:c:\users\ana guarino\desktop\nova pasta\info.c
+	"info.h"
+
+1398441412 c:\users\ana guarino\desktop\nova pasta\info.h
+
+1401231272 source:c:\users\ana guarino\desktop\nova pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\nova pasta\info.h
+
+1401291121 source:c:\users\marta\desktop\projecto ppp\nova pasta\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_3\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\nova pasta_3\info.h
+
+1401298138 source:c:\users\marta\desktop\projecto ppp\nova pasta_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_4\info.c
+	"info.h"
+
+1398437812 c:\users\marta\desktop\projecto ppp\nova pasta_4\info.h
+
+1401364403 source:c:\users\marta\desktop\projecto ppp\nova pasta_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_5\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\nova pasta_5\info.h
+
+1401374946 source:c:\users\marta\desktop\projecto ppp\nova pasta_5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_6\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\nova pasta_6\info.h
+
+1401384386 source:c:\users\marta\desktop\projecto ppp\nova pasta_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_7\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\nova pasta_7\info.h
+
+1401408713 source:c:\users\marta\desktop\projecto ppp\nova pasta_7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_8\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\nova pasta_8\info.h
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_9\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\nova pasta_9\info.h
+
+1401466467 source:c:\users\marta\desktop\projecto ppp\nova pasta_9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\nova pasta_10\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\nova pasta_10\info.h
+
+1401466721 source:c:\users\marta\desktop\projecto ppp\nova pasta_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final 1\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final 1\info.h
+
+1401469001 source:c:\users\marta\desktop\projecto ppp\projecto final 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final 2\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final 2\info.h
+
+1401526205 source:c:\users\marta\desktop\projecto ppp\projecto final 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+	"estruturas.h"
+	"cria_lista.h"
+
+1401525953 c:\users\marta\desktop\projecto ppp\projecto final 2\estruturas.h
+	<stdio.h>
+
+1401474125 c:\users\marta\desktop\projecto ppp\projecto final 2\cria_listas.h
+
+1401526247 source:c:\users\marta\desktop\projecto ppp\projecto final 2\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final 2\cria_lista.h
+	"estruturas.h"
+
+1401526362 source:c:\users\marta\desktop\projecto ppp\projecto final 3\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final 3\cria_lista.h
+	"estruturas.h"
+
+1401525953 c:\users\marta\desktop\projecto ppp\projecto final 3\estruturas.h
+	<stdio.h>
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final 3\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final 3\info.h
+
+1401526929 source:c:\users\marta\desktop\projecto ppp\projecto final 3\inserir_dados.c
+	"inserir_dados.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final 3\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401529429 source:c:\users\marta\desktop\projecto ppp\projecto final 3\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final 3\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final 3\ficheiros_escrita.h
+	"estruturas.h"
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final 3\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401533155 source:c:\users\marta\desktop\projecto ppp\projecto final 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<string.h>
+	<conio.h>
+	"info.h"
+	"estruturas.h"
+	"cria_lista.h"
+
+1401529073 source:c:\users\marta\desktop\projecto ppp\projecto final 3\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final 3\ficheiros_leitura.h
+	"clientes.h"
+
+1401530776 source:c:\users\marta\desktop\projecto ppp\projecto final 3\verificacoes.c
+	"verificacoes.h"
+
+1401530842 c:\users\marta\desktop\projecto ppp\projecto final 3\verificacoes.h
+	"estruturas.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final 3\separar.c
+	"separar.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final 3\separar.h
+
+1401531727 source:c:\users\marta\desktop\projecto ppp\projecto final 3\imprimir.c
+	"imprimir.h"
+
+1401531727 c:\users\marta\desktop\projecto ppp\projecto final 3\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401532418 source:c:\users\marta\desktop\projecto ppp\projecto final 3\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401532418 c:\users\marta\desktop\projecto ppp\projecto final 3\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401532604 source:c:\users\marta\desktop\projecto ppp\projecto final 3\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final 3\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401532863 source:c:\users\marta\desktop\projecto ppp\projecto final 3\sair.c
+	"sair.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final 3\sair.h
+	"ficheiros_escrita.h"
+
+1401533155 source:c:\users\marta\desktop\projecto ppp\projecto final 3\menus.c
+	"menus.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final 3\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401529429 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\ficheiros_escrita.h
+	"estruturas.h"
+
+1401525953 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\estruturas.h
+	<stdio.h>
+
+1401526362 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\cria_lista.h
+	"estruturas.h"
+
+1401532604 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401532418 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401530842 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401529073 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\ficheiros_leitura.h
+	"clientes.h"
+
+1401545789 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\imprimir.c
+	"imprimir.h"
+
+1401531727 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\separar.h
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\info.h
+
+1401548757 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 1\sair.h
+	"ficheiros_escrita.h"
+
+1401533155 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\menus.c
+	"menus.h"
+
+1401532863 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\sair.c
+	"sair.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\separar.c
+	"separar.h"
+
+1401542740 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\verificacoes.c
+	"verificacoes.h"
+
+1401541487 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 1\inserir_dados.c
+	"inserir_dados.h"
+
+1401557189 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\ficheiros_escrita.h
+	"estruturas.h"
+
+1401552719 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\estruturas.h
+	<stdio.h>
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401529073 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\ficheiros_leitura.h
+	"clientes.h"
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\info.h
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401532418 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401530842 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401531727 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\separar.h
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\sair.h
+	"ficheiros_escrita.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 2\cria_lista.h
+	"estruturas.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\separar.c
+	"separar.h"
+
+1401542740 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\verificacoes.c
+	"verificacoes.h"
+
+1401551136 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401558736 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401559544 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\inserir_dados.c
+	"inserir_dados.h"
+
+1401557129 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401553468 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\menus.c
+	"menus.h"
+
+1401550627 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\sair.c
+	"sair.h"
+
+1401558949 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 2\imprimir.c
+	"imprimir.h"
+
+1401557189 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\ficheiros_escrita.h
+	"estruturas.h"
+
+1401552719 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\estruturas.h
+	<stdio.h>
+
+1401551136 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\cria_lista.h
+	"estruturas.h"
+
+1401566332 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401532418 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401530842 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401529073 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\ficheiros_leitura.h
+	"clientes.h"
+
+1401571415 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\imprimir.c
+	"imprimir.h"
+
+1401571168 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\separar.h
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\info.h
+
+1401564664 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\inserir_dados.c
+	"inserir_dados.h"
+
+1401566677 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 3\sair.h
+	"ficheiros_escrita.h"
+
+1401564316 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\menus.c
+	"menus.h"
+
+1401550627 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\sair.c
+	"sair.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\separar.c
+	"separar.h"
+
+1401542740 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 3\verificacoes.c
+	"verificacoes.h"
+
+1401557189 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\ficheiros_escrita.h
+	"estruturas.h"
+
+1401552719 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\estruturas.h
+	<stdio.h>
+
+1401551136 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\cria_lista.h
+	"estruturas.h"
+
+1401566332 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401532418 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401530842 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401529073 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\ficheiros_leitura.h
+	"clientes.h"
+
+1401572455 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\imprimir.c
+	"imprimir.h"
+
+1401571168 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\separar.h
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\info.h
+
+1401578974 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\inserir_dados.c
+	"inserir_dados.h"
+
+1401566677 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 4\sair.h
+	"ficheiros_escrita.h"
+
+1401577099 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\menus.c
+	"menus.h"
+
+1401550627 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\sair.c
+	"sair.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\separar.c
+	"separar.h"
+
+1401542740 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 4\verificacoes.c
+	"verificacoes.h"
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\ficheiros_escrita.h
+	"estruturas.h"
+
+1401552719 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\estruturas.h
+	<stdio.h>
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\info.h
+
+1401635084 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401633683 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401636157 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401571168 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\separar.h
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\ficheiros_leitura.h
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\clientes.h
+	"ficheiros_escrita.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\sair.h
+	"ficheiros_escrita.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 6\cria_lista.h
+	"estruturas.h"
+
+1401550627 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\sair.c
+	"sair.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\separar.c
+	"separar.h"
+
+1401635610 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\clientes.c
+	"clientes.h"
+
+1401580252 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401637387 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401581609 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401581731 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\imprimir.c
+	"imprimir.h"
+
+1401637379 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\inserir_dados.c
+	"inserir_dados.h"
+
+1401637050 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\menus.c
+	"menus.h"
+
+1401637150 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 6\verificacoes.c
+	"verificacoes.h"
+
+1401638852 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\ficheiros_escrita.h
+	"estruturas.h"
+
+1401552719 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\estruturas.h
+	<stdio.h>
+
+1401638947 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\cria_lista.h
+	"estruturas.h"
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401581609 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\ficheiros_leitura.h
+	"clientes.h"
+
+1401639286 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\imprimir.c
+	"imprimir.h"
+
+1401571168 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\separar.h
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\info.h
+
+1401635084 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401633683 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401636157 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 7\sair.h
+	"ficheiros_escrita.h"
+
+1401639792 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\menus.c
+	"menus.h"
+
+1401550627 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\sair.c
+	"sair.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\separar.c
+	"separar.h"
+
+1401637150 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\verificacoes.c
+	"verificacoes.h"
+
+1401639489 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401639747 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 7\inserir_dados.c
+	"inserir_dados.h"
+
+1401651447 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\clientes.c
+	"clientes.h"
+
+1401529429 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\clientes.h
+	"ficheiros_escrita.h"
+
+1401527671 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\ficheiros_escrita.h
+	"estruturas.h"
+
+1401552719 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\estruturas.h
+	<stdio.h>
+
+1401638947 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\cria_lista.c
+	<stdio.h>
+	"cria_lista.h"
+
+1401526265 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\cria_lista.h
+	"estruturas.h"
+
+1401640612 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\eliminar_efectuar.c
+	"eliminar_efectuar.h"
+
+1401532975 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\eliminar_efectuar.h
+	"inserir_marcacoes.h"
+
+1401633683 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\inserir_marcacoes.h
+	"verificacoes.h"
+	"ficheiros_escrita.h"
+	"inserir_dados.h"
+
+1401636157 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\verificacoes.h
+	"estruturas.h"
+
+1401527078 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\inserir_dados.h
+	"estruturas.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1401527671 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\ficheiros_escrita.c
+	"ficheiros_escrita.h"
+
+1401581609 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\ficheiros_leitura.c
+	"ficheiros_leitura.h"
+
+1401529073 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\ficheiros_leitura.h
+	"clientes.h"
+
+1401639286 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\imprimir.c
+	"imprimir.h"
+
+1401571168 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\imprimir.h
+	"separar.h"
+	"ficheiros_leitura.h"
+
+1401530977 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\separar.h
+
+1398437714 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\info.c
+	"info.h"
+
+1401378290 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\info.h
+
+1401635084 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\inserir_marcacoes.c
+	"inserir_marcacoes.h"
+
+1401533342 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"info.h"
+	"menus.h"
+	"cria_lista.h"
+
+1401533186 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\menus.h
+	"eliminar_efectuar.h"
+	"imprimir.h"
+	"sair.h"
+
+1401532863 c:\users\marta\desktop\projecto ppp\projecto final_separado 8\sair.h
+	"ficheiros_escrita.h"
+
+1401639792 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\menus.c
+	"menus.h"
+
+1401550627 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\sair.c
+	"sair.h"
+
+1401530977 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\separar.c
+	"separar.h"
+
+1401637150 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\verificacoes.c
+	"verificacoes.h"
+
+1401646556 source:c:\users\marta\desktop\projecto ppp\projecto final_separado 8\inserir_dados.c
+	"inserir_dados.h"
+
